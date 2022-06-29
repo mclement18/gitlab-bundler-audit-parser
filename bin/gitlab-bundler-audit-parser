@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'gitlab-bundler-audit-parser'
+GitlabBundlerAuditParser::Parser.run outfile: ARGV[0]

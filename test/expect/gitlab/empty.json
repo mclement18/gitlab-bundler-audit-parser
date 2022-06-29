@@ -1,0 +1,1 @@
+{"version":"0.9.1","vulnerabilities":[],"scan":{"scanner":{"id":"bundler-audit","name":"BundlerAudit","url":"https://github.com/rubysec/bundler-audit","vendor":{"name":"rubysec"},"version":"0.9.1"},"type":"dependency_scanning","start_time":"2022-06-28T17:07:30+02:00","end_time":"2022-06-28T17:07:30+02:00","status":"success"}}

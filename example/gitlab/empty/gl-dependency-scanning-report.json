@@ -1,0 +1,20 @@
+{
+  "version": "14.0.0",
+  "vulnerabilities": [],
+  "remediations": [],
+  "scan": {
+    "scanner": {
+      "id": "gemnasium",
+      "name": "Gemnasium",
+      "url": "https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium",
+      "vendor": {
+        "name": "GitLab"
+      },
+      "version": "2.29.5"
+    },
+    "type": "dependency_scanning",
+    "start_time": "2021-03-26T04:53:17",
+    "end_time": "2021-03-26T04:53:18",
+    "status": "success"
+  }
+}
