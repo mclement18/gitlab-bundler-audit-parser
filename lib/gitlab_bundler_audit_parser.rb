@@ -36,6 +36,7 @@ module GitlabBundlerAuditParser
     def ouput_audit
       encoded = JSON.generate(@audit)
       File.write(@outfile, encoded)
+      @audit[:vulnerabilities].any?
     end
   end
 end

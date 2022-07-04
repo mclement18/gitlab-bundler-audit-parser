@@ -1,0 +1,6 @@
+# Changelog
+
+## 07-4-2022
+
+  - Executable `gitlab-bundler-audit` is now exiting with a code **1** when vulnerabilities are present.
+

@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'gitlab-bundler-audit-parser'
-  s.version     = '1.0.0'
+  s.version     = '1.1.0'
   s.summary     = 'GitLab parser for bundler-audit gem output'
   s.authors     = ['Mathieu Clement']
   s.email       = 'mcfly1893@gmail.com'

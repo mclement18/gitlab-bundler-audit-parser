@@ -7,7 +7,7 @@ gem install gitlab-bundler-audit-parser
 ```
 
 ## Usage
-The gem comes with an executbable `gitlab-bundler-audit-parser`. To use it, simply pass the JSON output of `bundler-audit` to the stdin of the command.
+The gem comes with an executbable `gitlab-bundler-audit-parser`. To use it, simply pass the JSON output of `bundler-audit` to the stdin of the command. If any vulnerabilities are present, the executable will exit with a code `1`.
 ```bash
 cat bundler-audit.output.json | gitlab-bundler-audit-parser
 ```

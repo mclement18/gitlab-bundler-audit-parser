@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gitlab-bundler-audit-parser (1.0.0)
+    gitlab-bundler-audit-parser (1.0.1)
 
 GEM
   remote: https://rubygems.org/
